@@ -1,2 +1,2 @@
-if x = 341 image_xscale = -image_xscale;
+if x = 341 image_xscale *= -1;
 x = 60;
