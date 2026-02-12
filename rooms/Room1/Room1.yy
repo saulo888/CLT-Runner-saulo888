@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"CLT-Runner-saulo888",
-    "path":"CLT-Runner-saulo888.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
