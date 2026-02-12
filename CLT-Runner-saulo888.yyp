@@ -28,6 +28,7 @@
   "resources":[
     {"id":{"name":"obj_Clt","path":"objects/obj_Clt/obj_Clt.yy",},},
     {"id":{"name":"obj_CltBasica","path":"objects/obj_CltBasica/obj_CltBasica.yy",},},
+    {"id":{"name":"obj_Colisor","path":"objects/obj_Colisor/obj_Colisor.yy",},},
     {"id":{"name":"obj_Comida","path":"objects/obj_Comida/obj_Comida.yy",},},
     {"id":{"name":"obj_ComidaBatata","path":"objects/obj_ComidaBatata/obj_ComidaBatata.yy",},},
     {"id":{"name":"obj_ComidaBurger","path":"objects/obj_ComidaBurger/obj_ComidaBurger.yy",},},
@@ -46,6 +47,7 @@
     {"id":{"name":"spr_burger","path":"sprites/spr_burger/spr_burger.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
     {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},
+    {"id":{"name":"spr_Colisor","path":"sprites/spr_Colisor/spr_Colisor.yy",},},
     {"id":{"name":"spr_coxinha","path":"sprites/spr_coxinha/spr_coxinha.yy",},},
     {"id":{"name":"spr_espaco","path":"sprites/spr_espaco/spr_espaco.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
