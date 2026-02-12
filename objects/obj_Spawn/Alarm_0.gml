@@ -3,7 +3,7 @@ cltEscolhida = obj_CltBasica; //choose(obj_CltBasica);
 objetoEscolhido = choose(comidaEscolhida,cltEscolhida);
 ladoEscolhido = choose(0,1);
 if ladoEscolhido == 0 x = 60 else x = 341;
-timer = choose(15, 30, 40, 50, 60, 100, 125);
+timer = choose(35, 40, 50, 55, 60, 80);
 
 instance_create_layer(x, y, "Instances", objetoEscolhido);
 alarm[0] = timer;

@@ -6,8 +6,8 @@
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "channelFormat":1,
-  "compression":0,
+  "channelFormat":0,
+  "compression":2,
   "compressionQuality":5,
   "conversionMode":0,
   "duration":0.14004166,
@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"snd_Pickup.wav",
-  "volume":0.6,
+  "volume":0.5,
 }
