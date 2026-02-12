@@ -54,8 +54,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_Inicio","path":"rooms/rm_Inicio/rm_Inicio.yy",},},
     {"roomId":{"name":"rm_Gameplay","path":"rooms/rm_Gameplay/rm_Gameplay.yy",},},
+    {"roomId":{"name":"rm_Inicio","path":"rooms/rm_Inicio/rm_Inicio.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
